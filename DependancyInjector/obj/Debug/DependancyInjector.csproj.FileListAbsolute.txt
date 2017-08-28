@@ -1,0 +1,5 @@
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\DependancyInjector\bin\Debug\DependancyInjector.dll
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\DependancyInjector\bin\Debug\DependancyInjector.pdb
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\DependancyInjector\obj\Debug\DependancyInjector.csprojResolveAssemblyReference.cache
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\DependancyInjector\obj\Debug\DependancyInjector.dll
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\DependancyInjector\obj\Debug\DependancyInjector.pdb

@@ -1,0 +1,10 @@
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\bin\Debug\ContainerTestConsole.exe.config
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\bin\Debug\ContainerTestConsole.exe
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\bin\Debug\ContainerTestConsole.pdb
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\obj\Debug\ContainerTestConsole.exe
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\obj\Debug\ContainerTestConsole.pdb
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\bin\Debug\DependancyInjector.dll
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\bin\Debug\TestAssembly.dll
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\bin\Debug\DependancyInjector.pdb
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\bin\Debug\TestAssembly.pdb
+c:\users\william.w.westlake\documents\visual studio 2015\Projects\ContainerTestConsole\ContainerTestConsole\obj\Debug\ContainerTestConsole.csprojResolveAssemblyReference.cache
