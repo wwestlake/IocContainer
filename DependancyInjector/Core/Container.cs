@@ -29,8 +29,9 @@ namespace DependancyInjector.Core
         public object Resolve(Type type)
         {
 
-            return _configuration.Registry.First(x => x.Key == type);
-
+            var result = _configuration.Registry.First(x => x.Key == type).Result;
+            ComponentBuilder<object> builder = new ComponentBuilder<object>(this, result);
+            return builder.Build(result);
         }
 
     }
