@@ -16,8 +16,6 @@ namespace DependancyInjector.Core
             return _configuration ?? (_configuration = new Configure(this));
         }
 
-
-
         public T Resolve<T>() where T: class
         {
             var t = typeof(T);
@@ -28,7 +26,6 @@ namespace DependancyInjector.Core
 
         public object Resolve(Type type)
         {
-
             var result = _configuration.Registry.First(x => x.Key == type).Result;
             ComponentBuilder<object> builder = new ComponentBuilder<object>(this, result);
             return builder.Build(result);

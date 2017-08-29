@@ -59,6 +59,7 @@
     <Compile Include="Core\Container.cs" />
     <Compile Include="Core\InvalidInstallerException.cs" />
     <Compile Include="Core\NoInstallerInAssemblyException.cs" />
+    <Compile Include="Core\ReflectionHelpers.cs" />
     <Compile Include="Core\RegistryEntry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
